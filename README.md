@@ -1,4 +1,4 @@
-# Entrega 1 Apropiación Tecnologica
+# Entrega 3 Apropiación Tecnologica
 
 David Guillermo Fonseca Ramirez - 
 Leonardo Mejia Bustos - 
