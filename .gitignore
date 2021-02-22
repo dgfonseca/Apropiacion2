@@ -1,0 +1,7 @@
+
+venv/
+.idea/
+
+apropiacion_tecnologica/__pycache__/
+olimpicos/__pycache__/
+olimpicos/migrations/__pycache__/
